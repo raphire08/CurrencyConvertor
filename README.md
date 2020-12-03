@@ -1,6 +1,6 @@
-# sivisoft
 
-Demo Flutter application for currency convertor
+
+Demo Flutter application for currency convertor using google sign option
 
 ## Getting Started
 
